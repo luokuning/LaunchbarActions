@@ -3,6 +3,8 @@ Google Translate Action for Launchbar
 
 <h6>由于查单词需求比较频繁，也暂时没找到合适的 Launchbar 翻译 Action，所以自己开发了一个，简单易用，一看就懂。</h6>
 
+<h6>后续可能会迭代版本，欢迎 star。</h6>
+
 [点击这里下载](https://github.com/luokuning/LaunchbarGoogleTranslateAction/releases/tag/v1.0)。
 
 
