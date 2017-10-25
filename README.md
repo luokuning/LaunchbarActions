@@ -1,16 +1,15 @@
 # Launchbar Actions
 
-[Google Translate](#Google-Translate)
-[Search MDN docs](#Search-MDN-Docs)
+[Google Translate](#google-translate)
+<br>
+[Search MDN docs](#search-mdn-docs)
 
-<h6>后续可能会迭代版本，欢迎 star。</h6>
+[所有最新版本 Actions 点击这里下载](https://github.com/luokuning/LaunchbarGoogleTranslateAction/releases/tag/v1.0)。 <h6>后续可能会迭代版本，欢迎 star。</h6>
 
 ### Google Translate
 Google Translate Action for Launchbar
 
 <h6>由于查单词需求比较频繁，也暂时没找到合适的 Launchbar 翻译 Action，所以自己开发了一个，简单易用，一看就懂。</h6>
-
-[所有最新版本 Actions 点击这里下载](https://github.com/luokuning/LaunchbarGoogleTranslateAction/releases/tag/v1.0)。
 
 
 <img width="710" alt="2017-10-21 00 51 50" src="https://user-images.githubusercontent.com/12708534/31832679-7c9a4802-b5fa-11e7-8456-8593a35a432e.png">
