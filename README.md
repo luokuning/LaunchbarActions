@@ -1,8 +1,9 @@
 # Launchbar Actions
+-----------
 
-[Google Translate](#google-translate)
-<br>
-[Search MDN docs](#search-mdn-docs)
+目前开发的 Action 有:
+* [Google Translate](#google-translate)
+* [Search MDN docs](#search-mdn-docs)
 
 [所有最新版本 Actions 点击这里下载](https://github.com/luokuning/LaunchbarActions/releases)。 <h6>后续可能会迭代版本，欢迎 star。</h6>
 
