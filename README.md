@@ -4,7 +4,7 @@
 <br>
 [Search MDN docs](#search-mdn-docs)
 
-[所有最新版本 Actions 点击这里下载](https://github.com/luokuning/LaunchbarGoogleTranslateAction/releases/tag/v1.0)。 <h6>后续可能会迭代版本，欢迎 star。</h6>
+[所有最新版本 Actions 点击这里下载](https://github.com/luokuning/LaunchbarActions/releases/tag/1.1)。 <h6>后续可能会迭代版本，欢迎 star。</h6>
 
 ### Google Translate
 Google Translate Action for Launchbar
