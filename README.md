@@ -8,8 +8,6 @@
 [所有最新版本 Actions 点击这里下载](https://github.com/luokuning/LaunchbarActions/releases)。 <h6>后续可能会迭代版本，欢迎 star。</h6>
 
 ### Google Translate
-Google Translate Action for Launchbar
-
 <h6>由于查单词需求比较频繁，也暂时没找到合适的 Launchbar 翻译 Action，所以自己开发了一个，简单易用，一看就懂。</h6>
 
 
@@ -20,7 +18,8 @@ Google Translate Action for Launchbar
 <img width="690" alt="2017-10-21 00 53 32" src="https://user-images.githubusercontent.com/12708534/31832766-c2e7c7a8-b5fa-11e7-82ef-cbd5fd302f2d.png">
 
 ### Search MDN Docs
-搜索 MDN 文档更为方便
+<h6>搜索 MDN 文档更为方便</h6>
+
 
 <img width="655" alt="2017-10-25 16 55 18" src="https://user-images.githubusercontent.com/12708534/31989619-6a79a43e-b9a5-11e7-9943-028d53ce4592.png">
 <img width="643" alt="2017-10-25 16 55 49" src="https://user-images.githubusercontent.com/12708534/31989621-6b9f954e-b9a5-11e7-99a8-b3917ae3726c.png">
