@@ -1,13 +1,13 @@
 
 function runWithString(argument) {
-    var sourceLang = 'en'
+    var sourceLang = 'auto'
     var targetLang = 'zh-CN'
     if (!/[a-zA-Z]/.test(argument)) {
-      sourceLang = 'zh-CN'
+      sourceLang = 'auto'
       targetLang = 'en'
     }
     // dt 跟 ie 参数很重要
-    var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=" 
+    var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl="
     + sourceLang + "&tl=" + targetLang + "&dt=t&dt=bd&ie=UTF-8&q="
     var result = HTTP.getJSON(url + encodeURIComponent(argument));
 

@@ -61,6 +61,6 @@
 		</dict>
 	</dict>
 	<key>LBTextInputTitle</key>
-	<string>↩︎  翻译英文，⌘ + ↩︎ 翻译中文</string>
+	<string>↩︎ 翻译为中文，⌘ + ↩︎ 翻译为英文</string>
 </dict>
 </plist>
