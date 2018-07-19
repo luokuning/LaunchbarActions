@@ -3,7 +3,6 @@ function runWithString(argument) {
     var sourceLang = 'auto'
     var targetLang = 'zh-CN'
     if (!/[a-zA-Z]/.test(argument)) {
-      sourceLang = 'auto'
       targetLang = 'en'
     }
     // dt 跟 ie 参数很重要
