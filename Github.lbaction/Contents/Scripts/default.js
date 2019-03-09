@@ -31,11 +31,11 @@ function runWithString(string) {
   var queryString = encodeURIComponent(string)
 
   var result = HTTP.getJSON(url + encodeURIComponent(string))
-  LaunchBar.debugLog(
-    'Custom Search result',
-    JSON.stringify(result.response.headerFields['X-RateLimit-Remaining']),
-    JSON.stringify(result.data),
-  )
+  // LaunchBar.debugLog(
+  //   'Custom Search result',
+  //   JSON.stringify(result.response.headerFields['X-RateLimit-Remaining']),
+  //   JSON.stringify(result.data),
+  // )
 
 
   if (result == undefined) {
