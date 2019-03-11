@@ -26,11 +26,12 @@
 <img width="643" alt="2017-10-25 16 55 49" src="https://user-images.githubusercontent.com/12708534/31989621-6b9f954e-b9a5-11e7-99a8-b3917ae3726c.png">
 
 ### Search-github-docs
+
+> <h6>由于 github 的 api 存在调用频率限制 (未验证用户每分钟最多 10 次，无法使用 suggestion 功能)，所以如果出现提示 `Rate Limit`，请稍等再试即可。</h6>
+
 <h6>快速打开 github 主页：Enter</h6>
 <h6>快速搜索仓库：输入仓库名 + Enter</h6>
 <h6>快速搜索用户：输入 u + 空格 + 用户名 + Enter</h6>
-
-> 由于 github 的 api 存在调用频率限制 (未验证用户每分钟最多 10 次)，所以如果出现提示 `Rate Limit`，请稍等再试即可。
 
 <img width="675" alt="image" src="https://user-images.githubusercontent.com/12708534/54070807-e3c3bd00-429f-11e9-91a0-d6f2e893e0ed.png">
 
